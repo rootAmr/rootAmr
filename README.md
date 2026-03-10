@@ -54,16 +54,6 @@ Frontend Developer • AI Enthusiast • Open Source Learner
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rootamr&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootamr&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
