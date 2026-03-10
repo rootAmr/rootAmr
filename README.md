@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maulana</h1>
 
 <h3 align="center">
-Frontend Developer • AI Enthusiast • Open Source Learner
+Data Science • Machine Learning • Computer Vision • Data Quality & Annotation • AI Engineer • Open Source Enthusiast
 </h3>
 
 <p align="center">
