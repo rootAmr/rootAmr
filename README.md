@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Data Science • Machine Learning • Computer Vision • Data Quality & Annotation • AI Engineer • Open Source Enthusiast
-</h3>
+</h3> 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+and+Machine+Learning+Learner;Open+Source+Enthusiast;Building+Cool+Things+on+GitHub" />
