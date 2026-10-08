@@ -51,40 +51,6 @@ My professional journey combines **data, artificial intelligence, and software e
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 MINERGO SYSTEMS
-**QA Annotator | Technical Writer | Data & AI Systems**
-
-- Ensuring AI training data quality through annotation, validation, and quality assurance.
-- Evaluating model predictions for accuracy and consistency.
-- Preparing technical documentation including BRD, TSD, and User Guides.
-- Contributing to data governance, data quality, and AI system initiatives.
-- Collaborating across engineering, product, and operational domains.
-
-### 🚀 SEGIBOX
-**Founder & CEO**
-
-- Building digital products and web-based solutions.
-- Exploring practical AI integration and automation.
-- Managing product development, technical planning, and business strategy.
-
-### 🎓 Institut Teknologi Kalimantan
-**Assistant Lecturer — Digital Image Processing & Data Mining**
-
-- Assisted students in Python-based image processing and data mining.
-- Guided practical sessions, assignments, and student projects.
-- Supported learning activities involving data analysis and computer vision.
-
-### 🤖 Bangkit Academy
-**Machine Learning Cohort**
-
-- Studied applied machine learning and data-driven problem solving.
-- Developed foundational skills in TensorFlow and AI application development.
-- Collaborated on technology-focused learning projects.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 📊 Data Science & Analytics
